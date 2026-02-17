@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07FD0B&width=435&lines=Ola%2C+eu+sou+Jonathan+Morales!" alt="Typing SVG" /></a>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jotanasss&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jotanasss&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jotanasss&theme=chartreuse_dark)
-<p align="center">Estudante de Ciência da Computação na UNIMAR. Me interesso tanto por front-end quanto por back-end. Atualmente possuo mais conhecimento em HTML, CSS e JS. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<h1 align="center">Estudante de Ciência da Computação na UNIMAR. Me interesso tanto por front-end quanto por back-end. Atualmente possuo mais conhecimento em HTML, CSS e JS. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   <h3 align="left">My Stacks </h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
