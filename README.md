@@ -2,7 +2,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jotanasss&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jotanasss&theme=chartreuse_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jotanasss&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jotanasss&theme=chartreuse_dark&utcOffset=8)
 <p align="center">Estudante de Ciência da Computação na UNIMAR. Me interesso tanto por front-end quanto por back-end. Atualmente possuo mais conhecimento em HTML, CSS e JS. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   <h3 align="left">My Stacks </h3>
 <div style="display: inline_block"><br>
