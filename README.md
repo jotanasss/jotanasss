@@ -17,7 +17,7 @@
   <a href = "mailto:jonathanhenriqueprofiss@gmail.com"><img src="https://img.shields.io/badge/gmail-%2300FF00?style=for-the-badge&logo=gmail
 " target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-morales-0905742b3/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2300FF00?style=for-the-badge&logo=linkedin" target="_blank"></a> 
-  
+</div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jotanasss/jotanasss/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jotanasss/jotanasss/output/github-contribution-grid-snake-dark.svg">
