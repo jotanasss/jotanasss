@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4826AE&width=435&lines=Ola%2C+eu+sou+o+Jonathan+Henrique!" alt="Typing SVG" /></a>
 <p align="center">Estudante de Ciência da Computação na UNIMAR. Me interesso tanto por front-end quanto por back-end. Atualmente possuo mais conhecimento em HTML, CSS e JS. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+  <h3 align="left">My Stack ~</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jonathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
