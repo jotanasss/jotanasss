@@ -1,4 +1,4 @@
-## Ola, sou Jonathan!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4826AE&width=435&lines=Ola%2C+eu+sou+o+Jonathan+Henrique!" alt="Typing SVG" /></a>
 <p align="center">Estudante de Ciência da Computação na UNIMAR. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
   
 <div style="display: inline_block"><br>
