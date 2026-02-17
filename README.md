@@ -14,7 +14,8 @@
   <a href="https://instagram.com/jotanass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/dacej3KG" target="_blank"><img src="https://img.shields.io/badge/discord-%2300FF00?style=for-the-badge&logo=discord
 " target="_blank"></a> 
-  <a href = "mailto:jonathanhenriqueprofiss@gmail.com"><img src="https://img.shields.io/badge/Instagram-%2300FF00?style=for-the-badge&logo=instagram" target="_blank"></a>
+  <a href = "mailto:jonathanhenriqueprofiss@gmail.com"><img src="https://img.shields.io/badge/gmail-%2300FF00?style=for-the-badge&logo=gmail
+" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-morales-0905742b3/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2300FF00?style=for-the-badge&logo=linkedin" target="_blank"></a> 
   
 <picture align="center">
